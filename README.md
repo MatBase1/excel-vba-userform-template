@@ -30,7 +30,7 @@ Le formulaire permet de saisir des informations de type “client” (nom, e-mai
 
 ## Installation
 
-1. Télécharger le fichier `exemple-userform.xlsm`.
+1. Télécharger le fichier `clients.xlsm`.
 2. Ouvrir le fichier dans Excel.
 3. Activer les macros si nécessaire.
 4. Appuyer sur `Alt + F11` pour ouvrir l’éditeur VBA et consulter le code.
